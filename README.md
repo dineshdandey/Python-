@@ -2,7 +2,7 @@
 
 1. Install the latest version of Python:
 
-       <a href="https://www.python.org/downloads/ > </a>
+       <a href="https://www.python.org/downloads/>Link </a>
 
 2.Open Command Prompt and start giving commands
 
