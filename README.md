@@ -1,8 +1,8 @@
-# Python 
+# Python Examples
 
 1. Install the latest version of Python:
 
-       <a href="https://www.python.org/downloads/>Link </a>
+       https://www.python.org/downloads/
 
 2.Open Command Prompt and start giving commands
 
